@@ -1,5 +1,7 @@
 # Boston House Price Prediction
 
+![Screenshots](https://github.com/SankritaPatel/BostonHousePricePrediction/blob/main/image.png)
+
 ## Overview
 This project aims to predict house prices in Boston using machine learning techniques. The predictive model is built using various algorithms including Gradient Boosting, Random Forest, Linear Regression, XGBoost, K-Nearest Neighbors, and Decision Trees. The dataset is stored in MySQL, tracked using DVC, and experimentations are monitored through MLflow via Dagshub. The backend is developed using Flask, and the frontend interface is created with HTML.
 
@@ -38,4 +40,5 @@ Contributions are welcome! Feel free to submit issues or pull requests for enhan
 ## License
 This project is licensed under the MIT License.
 
-![Alt Text](Image URL)
+
+
